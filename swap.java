@@ -1,4 +1,4 @@
-class Swapping {
+class Swap {
     public static void main(String args[]) {
         int a = 16, b = 17, temp;
         System.out.println("Before swapping a: " + a + ", b: " + b);
